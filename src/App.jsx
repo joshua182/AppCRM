@@ -8,7 +8,7 @@ import VerCliente from './Paguinas/VerCliente'
 
 
 function App() {
-
+ 
   return (
     <div>
       <BrowserRouter>
